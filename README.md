@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 <br/>
